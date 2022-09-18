@@ -119,7 +119,7 @@ print("Factorial Of Number  is  ", fact )
 
 n = int(input('Enter a marks of student:'))
 
-if n>100 or n<0:
+if n>100:
     print('invalid input')
 else:
     if n<50:
