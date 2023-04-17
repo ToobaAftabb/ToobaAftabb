@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToobaAftabb
-- 👀 I’m interested in Python Language.
-- 🌱 I’m currently learning Artificial Intelligence.
-- 💞️ I’m looking to collaborate on Python.
+- 👀 I’m interested in React Native Language.
+- 🌱 I’m currently learning Mobile Application Development.
+
 
 
 <!---
